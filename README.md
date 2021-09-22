@@ -1,4 +1,4 @@
-# znaaz-neiu-AI
+# tictactoe
 
 final_project.py
 
